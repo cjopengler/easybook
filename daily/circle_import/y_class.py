@@ -16,8 +16,5 @@ from daily.circle_import.x_class import XClass
 
 class YClass:
 
-    def __init__(self, x: XClass):
-        self.x = x
-
-    def f(self):
-        print(self.x.value)
+    def f(self, x: XClass):
+        print(x.value)

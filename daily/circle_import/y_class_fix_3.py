@@ -5,7 +5,7 @@
 # Copyright (c) 2020 PanXu, Inc. All Rights Reserved
 #
 """
-brief
+PEP-0563  Python 3.5.2 引入 TYPE_CHECKING
 
 Authors: PanXu
 Date:    2020/10/13 21:17:00

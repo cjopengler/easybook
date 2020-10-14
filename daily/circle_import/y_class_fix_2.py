@@ -16,7 +16,7 @@ class YClass:
 
     def f(self, x: "XClass"):
         from daily.circle_import.x_class import XClass
-        xx: XClass = x
-        print(xx.value)
+        x: XClass = x
+        print(x.value)
 
 
